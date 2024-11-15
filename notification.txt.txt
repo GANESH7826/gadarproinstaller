@@ -1,5 +1,5 @@
-Abhi Aap Sirf BHIM, PHONE PAY, GOOGLE PAY ,PAYTM Ya Koi Bhi Upi Lga sakte Hai Or Payment 
-Gateway pe Work Chal Rha Hai Work Pura Hone pe Aapko Update Mil Jayega.......!
+  Abhi Aap Sirf (BHIM, PHONE PAY, GOOGLE PAY ,PAYTM, etc) Ya Koi Bhi Upi Lga sakte Hai Aur 
+  Payment Gateway pe Work Chal Rha Hai Work Pura Hone pe Aapko Update Mil Jayega.......!
 .
 .
 .
@@ -14,8 +14,4 @@ Gateway pe Work Chal Rha Hai Work Pura Hone pe Aapko Update Mil Jayega.......!
 .
 .
 .
-.
-.
-.
-.
-                                                                  Thank you
+                                            Thank you
