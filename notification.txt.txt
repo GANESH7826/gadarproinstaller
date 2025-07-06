@@ -1,12 +1,1 @@
-UPI QR CODE Payment Update kr diya gya hai AB aap QR CODE se Bhi payment kr skte hai....!
-...........................................................................................................................................................
-Abhi Aap Sirf (BHIM, PHONE PAY, GOOGLE PAY ,PAYTM, etc) Ya Koi Bhi Upi Lga sakte Hai. 
-Other Payment Gateway pe Work Chal Rha Hai Work Pura Hone pe Aapko Update Mil Jayega.......!
-..........................................................................................................................................................
-Pair Ko Login Krne Se Pahale Appko Status me Current IP dikhega Check Kr le Sabhi Pair-
-Alag Alag IP Ke Sath Open Hua Ho...! Otherwise Getting Availability Se Aage Nhi Badhega...!
-..........................................................................................................................................................
-Upadating Ke Time Complete Update Hone ke Bad Khud se Reopen Hoga Jab tk reopen nhi hoga ya 
-message show nhi ho manually open krne liye tab tak wait kre wrna aapka data erase ho skta hain.  
-aur updating process complete nhi hone se data bhi restore nhi hoga puri tarah se.....!
-........................................................................................................................................................
+
